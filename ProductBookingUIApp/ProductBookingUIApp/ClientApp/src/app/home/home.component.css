@@ -1,0 +1,12 @@
+.nav{
+  text-align:center;
+  height:80px;
+  font-size:20px;
+  width:100%;
+  background-color:brown;
+}
+button {
+  height: 100px;
+  width: 100px;
+
+}
